@@ -38,3 +38,9 @@ If there are any issues with the Markdown syntax or if the input file cannot be 
 
 ## Revert-commit
 The [following link](https://github.com/anasteishat/MTRPZ_labs/commit/41c0ba4e399ab98596a5f912d8758d33eb4df18b).
+
+## Failure commit for CI tests:
+The [following link](https://github.com/anasteishat/MTRPZ_labs/commit/301e86466d6de8a19f940b99365b2e3e0a9251a6).
+
+## Conclusions about Unit-Tests:
+I can confidently say that the time spent writing unit tests was a very worthwhile investment for me. After all, writing unit tests allows you to ensure high code quality and detect errors at the early stages of development, which greatly facilitates the work of the developer.
